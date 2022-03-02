@@ -1,4 +1,4 @@
-### Hi there I am [Tushar](https://tverma332.github.io/My-Portfolio/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there I am [Tushar](https://tverma332.github.io/my-resume/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
